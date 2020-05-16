@@ -1,0 +1,38 @@
+# showcase
+showcase:
+  enable: true
+  title: "Bitesize" 
+  subtitle: "Your Virtual Kitchen"
+
+  description: "We know how frustrating it is to stay home all day, but we're here to make home and kitchen fun again! Join us for a virtual cooking experience, where you can hang out with friends and family and cook together remotely."
+  image:
+    x: "img/showcase/test_1.png"
+    _2x: "img/showcase/test_1.png"
+  imageMobile:
+    x: "img/showcase/test_1.jpg"
+
+key: >
+# about
+about:
+  enable: true
+  title: "Here's how it works:" 
+  content: '<p class="lead">
+    <br> 1. Think of somebody that you would like to cook and eat with remotely. <br><br> 
+    2. Fill out a quick survey to cater your experience and schedule your hangout. <br> <br>
+     3. We will follow up with your plan - what you’ll be cooking, what ingredients, your need, and instructions for how to join the call. <br><br>
+     4. Enjoy your experience! Bitesize will guide you through the process via a remote zoom call .
+    </p>'
+
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.linkedin.com/company/radity/"
+  image:
+    x: "img/who-am-i/shakshuka_test.png"
+    _2x: "img/who-am-i/shakshuka_test.png"
+
+
+# contact
+contact:
+  enable: true
+  title: "Sign Up"
